@@ -1,0 +1,31 @@
+%SAPWIN%OCbOp1Os1p9;PPGB6120,660,11074,5340,10,1,0,0,0,0,1,255,255,255;GB6120,660,11074,1068,0,7,0,0,0,0,1,204,204,204;
+m1008,5400;W0;FCourier New;B1I0S240Xw0;f0,0,0;______________________________________________________________________
+m1008,5760;Kit
+m1008,6000;   Qté.    N°Ident. Description
+m1008,6120;______________________________________________________________________
+m1008,6720;W0;FArial;B1I0S160Xw45;Le remplacement de EU0000.00 comprend les articles suivants:
+m1008,6960;W0;FCourier New;B1I0S240Xw0;       1 PC EU-CONS Petites fournitures
+m1008,7200;       1 PC EU-EXT Achat matériel hors stock
+m1008,960;W0;FCourier New;B1I0S240Xw0;SDC ORDINAL DE CERGY
+m1008,1200;95000 CERGY PONTOISE
+m6192,960;W0;FArial;B2I0S280Xw78;Ordre pour technicien
+m6192,1440;W0;FCourier New;B2I0S240Xw0;Stéphane Chardar
+m6192,1680;W0;FArial;B1I0S160Xw45;Numéro Commande  /  Date
+m6192,1920;W0;FCourier New;B1I0S240Xw0;41406006 / 27.07.2009
+m6192,2160;W0;FArial;B1I0S160Xw45;Date de livraison
+m6192,2400;W0;FCourier New;B1I0S240Xw0;27.07.2009
+m6192,2640;W0;FArial;B1I0S160Xw45;Numéro de client
+m6192,2880;W0;FCourier New;B1I0S240Xw0;1227724
+m6192,3120;W0;FArial;B1I0S160Xw45;Demandé par
+m6192,3600;W0;FArial;B1I0S160Xw45;Total  des heures
+m6192,3840;W0;FCourier New;B1I0S240Xw0;16,000 H
+m6192,4320;W0;FArial;B1I0S160Xw45;Responsable Agence Service
+m6192,4560;W0;FCourier New;B2I0S240Xw0;Abdel Firaoui
+m1008,3360;W0;FCourier New;B1I0S240Xw0;Equipement: 21000053398 YAE_ELT
+m1008,3600;           (53398)
+m1008,3840;Descript.: DPXDRT 2
+m1008,4080;Adresse :  RUE CHAUFFOURS
+m1008,4320;Ville :      CERGY PONTOISE
+m1008,4560;Contrat :  0031139661
+m1008,4800;Lieu de travail : 21710101
+

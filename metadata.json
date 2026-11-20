@@ -1,0 +1,6 @@
+{
+  "name": "TOOLBOX AI PRO",
+  "description": "Assistant Métier & Opérationnel Intelligent pour la gestion des stocks, documents, contrats, analyse de données, reporting et suivi de projets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

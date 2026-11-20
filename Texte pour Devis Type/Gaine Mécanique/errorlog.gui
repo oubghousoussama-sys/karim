@@ -1,0 +1,30 @@
+**************************************************
+Sapgui 640 [Build 8972] Tue Dec 06 21:09:04 2005
+: 'PE1: auto logout (maximum user idle time exceeded)
+
+Reconnect to the system if needed.
+
+Do you want to see the detailed error description?
+'
+
+**************************************************
+Sapgui 640 [Build 8972] Thu Dec 08 18:52:40 2005
+: 'PE1: auto logout (maximum user idle time exceeded)
+
+Reconnect to the system if needed.
+
+Do you want to see the detailed error description?
+'
+
+**************************************************
+Sapgui 640 [Build 8972] Fri Dec 09 14:43:40 2005
+: 'PE1: auto logout (maximum user idle time exceeded)
+
+Time		Thu Dec 08 18:52:40 2005
+Component	DPTM
+Release		640
+Version		10
+Return Code	-22
+Counter		1
+'
+
